@@ -24,12 +24,12 @@ This is a customizable browser start page that provides a clean and minimalistic
 
    
 ```bash
-git clone https://github.com/SujalChoudhari/StartPage.git
+git clone https://github.com/SujalChoudhari/CustomStartPage.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd StartPage
+cd CustomStartPage
 ```
 3. Open `index.html` in your web browser.
 
