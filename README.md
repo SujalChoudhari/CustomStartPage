@@ -1,4 +1,4 @@
-# My Awesome Start Page
+# Custom Start Page
 
 ![Screenshot](public/screenshot.png)
 
@@ -40,7 +40,6 @@ cd CustomStartPage
 
 * In settings of browser, set the homepage to `index.html` to open the start page on browser startup.
 
-> 80% of the code in this project is generated using the ChatGPT language model developed by OpenAI.
 
 ## License
 
