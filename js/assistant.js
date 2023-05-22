@@ -48,7 +48,7 @@ class Assistant {
                 this.updateAssistantContent(response);
                 if (data.text) {
                     const textElement = document.createElement('p');
-                    textElement.innerHTML = data.text;
+                    textElement.innerHTML = data.text.substring(0, 200).append('...');
                     this.assistantContent.appendChild(textElement);
                 }
 
